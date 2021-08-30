@@ -7,7 +7,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 66"
+        "name": "Argeles-Gazost N*66"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +23,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 67"
+        "name": "Argeles-Gazost N*67"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "square",
-        "name": "PA"
+        "name": "Argeles-Gazost N*PA"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 58"
+        "name": "Argeles-Gazost N*58"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "square",
-        "name": "PB"
+        "name": "Argeles-Gazost N*PB"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +87,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 57"
+        "name": "Argeles-Gazost N*57"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 59"
+        "name": "Argeles-Gazost N*59"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +119,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 60"
+        "name": "Argeles-Gazost N*60"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 73"
+        "name": "Argeles-Gazost N*73"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +151,7 @@
         "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 55"
+        "name": "Argeles-Gazost N*55"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "P4"
+        "name": "Argeles-Gazost N*P4"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +183,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 72"
+        "name": "Argeles-Gazost N*72"
       },
       "geometry": {
         "type": "Point",
@@ -196,10 +196,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#e68c00",
+        "marker-color": "#e68200",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 43"
+        "name": "Argeles-Gazost N*43"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 44"
+        "name": "Argeles-Gazost N*44"
       },
       "geometry": {
         "type": "Point",
@@ -228,10 +228,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#e68c00",
+        "marker-color": "#e68200",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 42"
+        "name": "Argeles-Gazost N*42"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +247,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "P2"
+        "name": "Argeles-Gazost N*P2"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +263,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 1"
+        "name": "Argeles-Gazost N*1"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +279,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "P1"
+        "name": "Argeles-Gazost N*P1"
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +295,7 @@
         "marker-color": "#e68200",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 35"
+        "name": "Argeles-Gazost N*35"
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +311,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 71"
+        "name": "Argeles-Gazost N*71"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +327,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 32"
+        "name": "Argeles-Gazost N*32"
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +343,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 54"
+        "name": "Argeles-Gazost N*54"
       },
       "geometry": {
         "type": "Point",
@@ -356,10 +356,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000f5",
+        "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 49"
+        "name": "Argeles-Gazost N*49"
       },
       "geometry": {
         "type": "Point",
@@ -375,7 +375,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 50"
+        "name": "Argeles-Gazost N*50"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +391,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "mane": "PI 48"
+        "name": "Argeles-Gazost N*48"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +407,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 69"
+        "name": "Argeles-Gazost N*69"
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +423,7 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 53"
+        "name": "Argeles-Gazost N*53"
       },
       "geometry": {
         "type": "Point",
@@ -439,13 +439,813 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "PI 51"
+        "name": "Argeles-Gazost N*51"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -0.09098857641220093,
           43.00845427184034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "name": "Argeles-Gazost N*A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08382976055145262,
+          42.99807969113182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08656024932861328,
+          42.997765817562254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09299755096435547,
+          42.997593186415585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0923699140548706,
+          42.995886466025674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09070694446563721,
+          42.99293196212882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09331941604614258,
+          42.99248857810483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09373247623443604,
+          42.990801335316476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0945746898651123,
+          42.998095384768206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09370028972625732,
+          42.99919392935519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0930243730545044,
+          43.00039053593129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08919417858123779,
+          43.00003744133256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0890815258026123,
+          42.99966865147412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09081423282623291,
+          43.0001119836946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+        "name": "Argeles-Gazost N*20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10213315486907958,
+          43.00056708246972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e68200",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10140895843505858,
+          42.999986438611685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10058820247650146,
+          42.99912330922245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09950459003448486,
+          42.99928808940591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+        "name": "Argeles-Gazost N*24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09849607944488525,
+          42.99951564226611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09727835655212402,
+          42.99996682216933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09550809860229492,
+          43.0012261850643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10359227657318115,
+          42.99980204380611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10298073291778564,
+          42.99844456714117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10108172893524169,
+          42.997958065313874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*P1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09989619255065918,
+          42.99705959616874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e68200",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09940803050994873,
+          42.99682026374398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09638786315917969,
+          42.993167385974125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09541690349578856,
+          42.991374218294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "name": "Argeles-Gazost N*D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09831905364990234,
+          42.991680276874355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e68200",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09842634201049805,
+          42.991005376441244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10197222232818602,
+          43.00126934034467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10127484798431396,
+          43.00245806024184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10047018527984619,
+          43.00355652682839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09955823421478271,
+          43.00151257863088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09892523288726807,
+          43.00174012325263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09669363498687744,
+          43.00296414193056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09886622428894042,
+          43.00379190997023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10291635990142821,
+          43.00355652682839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+        "name": "Argeles-Gazost N*4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10306924581527709,
+          43.00489427568215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10304778814315796,
+          43.00510807741777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10192662477493285,
+          43.005610214347925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10117024183273315,
+          43.00678904312145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10016173124313354,
+          43.006767467423664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1003226637840271,
+          43.006279070055704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09926319122314453,
+          43.0066654731134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10052919387817383,
+          43.005188498061536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0988742709159851,
+          43.004945274328854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09948313236236571,
+          43.008926961047976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09811520576477051,
+          43.010303819254574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09694576263427734,
+          43.012123892136344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Argeles-Gazost N*P1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09794622659683228,
+          43.014628365457085
         ]
       }
     }
